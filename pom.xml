@@ -19,11 +19,11 @@
     <artifactId>spring-core</artifactId>
     <version>5.2.22.RELEASE</version>
 	</dependency>
+	<dependency>
+    <groupId>org.mongodb</groupId>
+    <artifactId>mongo-java-driver</artifactId>
+    <version>3.12.11</version>
+</dependency>
   </dependencies>
-  <repositories>
-        <repository>
-            <id>id</id>
-            <url>jfrong-repo-url/</url>
-        </repository>     
-</repositories>
+  
 </project>
